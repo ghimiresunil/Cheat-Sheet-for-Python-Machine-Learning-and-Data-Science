@@ -4,4 +4,4 @@ Over the past months, I have been gathering all the [cheat sheets for Python, Ma
 
 ![Cheat_Sheet_for_Python__Machine_Learning__and_Data_Science](https://user-images.githubusercontent.com/40186859/119804711-53b1d280-bf00-11eb-9bc4-a573875de324.png)
 
-_**Note: These cheat sheets have recently been re-designed into Super High-Resolution PDF. These cheat sheets are very helpful as a quick reference for the concepts.**_ ([Full Tutorial])(https://graspcoding.com/cheat-sheet-for-python-machine-learning-and-data-science/)
+_**Note: These cheat sheets have recently been re-designed into Super High-Resolution PDF. These cheat sheets are very helpful as a quick reference for the concepts.**_ ([Full Tutorial](https://graspcoding.com/cheat-sheet-for-python-machine-learning-and-data-science/))
